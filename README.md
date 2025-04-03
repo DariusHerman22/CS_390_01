@@ -4,7 +4,7 @@ An h1 header
 
 Paragraphs are separated by a blank line. 
 This is the new-feature branch.
-I'M GONNA EDIT THIS THING!!!!
+THIS IS GONNA MESS UP THE MERGE
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
